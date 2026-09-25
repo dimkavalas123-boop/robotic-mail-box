@@ -4,7 +4,7 @@ import datetime
 import os
 import queue
 
-TOKEN = '8985740083:AAHHVG676IAHlQmm5-kmONVg02Og6OKiH3c'
+TOKEN = 'SAMPLE'
 bot = telebot.TeleBot(TOKEN)
 
 msg_queue = queue.Queue()
